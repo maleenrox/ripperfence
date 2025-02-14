@@ -295,8 +295,6 @@ while program == "start" :
     mainPass = str(numberPart + symbolPart + capitalPart + simplePart)
     print("Assembling Finished..." + "\n")
 
-    # print(mainPass)
-
     print("Starting Randomizing Password Characters...")
     n = int(0)
 
