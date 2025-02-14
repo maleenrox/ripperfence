@@ -166,10 +166,10 @@ def aboutPrint():
     - Open-source security initiatives
 
    *** CONTACT & LINKS ***
-    - GitHub: github.com/MSRox-RipperFence (Code & Updates)    
+    - GitHub(Code & Updates) :- https://github.com/maleenrox/ripperfence    
 
    *** LICENSE ***
-    - Free for personal/educational use. Commercial use requires permission.
+    - MIT LICENSE (https://github.com/maleenrox/ripperfence/blob/main/LICENSE)
 
  ----------------------------------------------------------------------------------------
  "Every expert was once a beginner. This is my first step toward securing the digital world."  
